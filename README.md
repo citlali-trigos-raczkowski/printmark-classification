@@ -1,8 +1,6 @@
 # printmark-classification
 
-Python project, with dependencies managed by [poetry](https://github.com/python-poetry/poetry), with a [pre-commit](https://pre-commit.com/) hook on commit.
-
-Link to [course starter repository](https://github.com/COMHIS/project-course-starter-2022).
+Python project, with dependencies managed by [poetry](https://github.com/python-poetry/poetry), with a [pre-commit](https://pre-commit.com/) hook on commit. These additions are based on the **best practices** outlined in the [course starter repository](https://github.com/COMHIS/project-course-starter-2022) for the Digital Humanities project.
 
 ## Repository organization
 
