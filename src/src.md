@@ -1,0 +1,3 @@
+# src
+
+- `common_basis.py` - common functions useful across files (pulled from [the template repository docs](https://github.com/COMHIS/project-course-starter-2022/blob/main/src/example_user/example_analysis.ipynb)). From that doc: "The central object defined in common_basis is `con`, which is the [MariaDB](https://mariadb.com/) (MySQL) database connection (an [SQLAlchemy Connection](https://docs.sqlalchemy.org/en/14/core/connections.html)) through which both ready data is accessed, as well as new data stored for others to reuse. Below, you will see both how to use con to store data in the database, as well as how query it."
